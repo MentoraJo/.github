@@ -1,6 +1,6 @@
 # mentora
 
-> **Connecting students with students through peer-to-peer learning**
+> **Connecting students with students**
 
 ## Who We Are
 
